@@ -1,0 +1,3 @@
+NAME = nl
+ROOT = $HOME/local
+BIN = $ROOT/bin
